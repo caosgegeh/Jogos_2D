@@ -1,0 +1,18 @@
+O jogo está em sua versão BETA e pode apresentar BUGS
+
+No código no dojo precisei usar a biblioteca SDL2, para instalar é diferente dependendo de seu sistema operacional.
+Se for Windows vá no site do jogo que é
+https://wiki-libsdl-org.translate.goog/SDL3/SourceCode?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
+
+se for Linux Mint (como o meu) vá em seu terminal e faça:
+sudo apt update
+sudo apt install libsdl2-dev
+
+depois de baixar as bibliotecas faça isso em seu terminal para compilar o jogo
+<nome do seu compilador> ./Protocolo_Alfa_v01.c -o protocolo_alfa $(pkg-config --libs sdl2)
+
+para executar é
+Linux: ./protocolo_alfa
+Windows: protocolo_alfa
+
+Bom jogo e um bom dia!
