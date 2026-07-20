@@ -1,2 +1,4 @@
-# Jogo_procolo_alfa
-Jogo 2D de tiro, esse repositório não é para lançar o projeto pronto, mas sim o desenvolvemento dele de programa pra programa
+# Jogos 2D
+  Saudações a todos!
+  Esse repositório existe com o propósito de compartilhar jogos em 2D que estou construindo ao decorrer do tempo.
+  Espero que possam se com os jogos que iriei postar
